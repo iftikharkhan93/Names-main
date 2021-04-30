@@ -1,4 +1,8 @@
-# NAMES
+# Group Members
+
+Aditya Verma 
+Iftikhar Khan
+Olivia Robson
 
 # Dependencies 
 
